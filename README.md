@@ -5,6 +5,7 @@ booking trends, and other key factors that impact the hotel's operations. You wi
 analyze the data, as well as answer specific questions about the dataset.
 
 Dataset Details:
+
 The dataset includes the following columns:
 Booking_ID: A unique identifier for each hotel reservation.
 no_of_adults: The number of adults in the reservation.
